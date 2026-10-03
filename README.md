@@ -1,13 +1,6 @@
 # ¡Hola! Soy Franklin Vasquez 👋
 
-Soy estudiante de la carrera **Analista Programador Universitario** y Desarrollador Web Full Stack. 
-
-### 🚀 Sobre mí
-- 💻 Desarrollando aplicaciones web y explorando el desarrollo backend y frontend.
-- 🎓 Estudiante en la UNJu, aplicando lógica de programación y estructuras de datos.
-- 🎮 En mi tiempo libre disfruto del desarrollo en Java, como la creación y optimización de mods, y la lógica de circuitos.
-
-### 🛠️ Lenguajes y Herramientas
+### Lenguajes y Herramientas
 
 **Frontend:**
 <p>
@@ -31,7 +24,7 @@ Soy estudiante de la carrera **Analista Programador Universitario** y Desarrolla
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="Sequelize" title="Sequelize" />
 </p>
 
-### 📈 Estadísticas de GitHub
+### Estadísticas de GitHub
 <!-- Aquí puedes agregar tarjetas dinámicas de github-readme-stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VasquezFranklin&show_icons=true&theme=radical" alt="Estadísticas de Franklin" />
